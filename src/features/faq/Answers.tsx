@@ -67,10 +67,16 @@ const Faq1D = () => {
       <Text>Upcoming dates we are closed:</Text>
       <Box>
         <UnorderedList>
-          <ListItem>Monday October 14, 2024</ListItem>
-          <ListItem>Wednesday December 25, 2024</ListItem>
-          <ListItem>Thursday December 26, 2024</ListItem>
-          <ListItem>Wednesday January 1, 2025</ListItem>
+          <ListItem>Thursday December 25, 2025</ListItem>
+          <ListItem>Friday December 26, 2025</ListItem>
+          <ListItem>Thursday January 1, 2026</ListItem>
+          <ListItem>Monday February 16, 2026</ListItem>
+          <ListItem>Friday April 3, 2026</ListItem>
+          <ListItem>Monday May 18, 2026</ListItem>
+          <ListItem>Wednesday July 1, 2026</ListItem>
+          <ListItem>Monday September 7, 2026</ListItem>
+          <ListItem>Monday October 12, 2026</ListItem>
+          <ListItem>Friday December 25, 2026</ListItem>
         </UnorderedList>
       </Box>
     </VStack>
